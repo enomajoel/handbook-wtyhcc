@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://enomajoel.github.io/handbook-wtyhcc/sitemap.xml
